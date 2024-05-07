@@ -1,6 +1,6 @@
 # Code-Challenges-Mix
 
-##Codewars
-Kata (code challenges) from codewars.com
+## Codewars
+This repository contains daily kata (code challenges) from codewars.com 
 
-Diffuculty 8kyu(easiest) - 1kyu(hardest)
+Difficulty ranges from 8kyu to 1kyu, with 1 being the most difficult challenges.
